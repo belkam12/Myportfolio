@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on Meriem Belkouri | Portfolio</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content in Welcome on Meriem Belkouri | Portfolio</description>
+    <image>
+      <title>Meriem Belkouri | Portfolio</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://examplesite.com/aboutme/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/aboutme/</guid>
+      <description>&lt;h1 id=&#34;meriem-belkouri&#34;&gt;Meriem Belkouri&lt;/h1&gt;
+&lt;p&gt;Ingénieure en Informatique et Sécurité des Systèmes, je suis passionnée par les technologies émergentes, la cybersécurité et les systèmes intelligents. Après une formation solide en administration des réseaux, j’ai élargi mon expertise à travers une licence en   et sciences informatiques, puis un master orienté sécurité informatique. Mes projets m&amp;rsquo;ont permis de maîtriser des domaines variés tels que le développement mobile (Java, Kotlin), le web (PHP, Laravel), les systèmes distribués (Java RMI, Kafka, Spring Boot), l’IoT et l’intelligence artificielle appliquée à la sécurité réseau. À travers des expériences pratiques (stages, projets académiques, simulations), j’ai développé une approche rigoureuse et concrète, avec un fort intérêt pour la détection d’intrusions, la supervision réseau et la gestion sécurisée des infrastructures. Curieuse, autonome et motivée, je suis constamment à la recherche de défis techniques pour renforcer mes compétences et contribuer à des solutions innovantes et sécurisées.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://examplesite.com/contact/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/contact/</guid>
+      <description>&lt;h2 id=&#34;contactez-moi&#34;&gt;Contactez-moi&lt;/h2&gt;
+&lt;p&gt;Email : &lt;a href=&#34;mailto:meriembelkouri466@example.com&#34;&gt;meriembelkouri466@example.com&lt;/a&gt;&lt;br&gt;
+email institutionnel: &lt;a href=&#34;mailto:meriem.belkouri@um5r.ac.ma&#34;&gt;meriem.belkouri@um5r.ac.ma&lt;/a&gt;
+LinkedIn : &lt;a href=&#34;https://www.linkedin.com/in/meriem-belkouri-1a9154241/&#34;&gt;Lien vers LinkedIn&lt;/a&gt;&lt;br&gt;
+GitHub : &lt;a href=&#34;https://github.com/belkam12&#34;&gt;Lien vers GitHub&lt;/a&gt;
+Numéro de téléphone : +212 633 579 614&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>https://examplesite.com/education/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/education/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Master 1, Ingénierie Informatique et Sécurité des Systèmes&lt;/strong&gt;&lt;br&gt;
+Faculté des Sciences, Rabat — &lt;em&gt;2025&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Licence, Sciences Mathématiques et Informatiques&lt;/strong&gt;&lt;br&gt;
+Faculté des Sciences, Rabat — &lt;em&gt;2023-2024&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DUT, Administration Réseaux Informatiques&lt;/strong&gt;&lt;br&gt;
+EST, Salé — &lt;em&gt;2021-2023&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Baccalauéat, Sciences Mathématiques A&lt;/strong&gt;&lt;br&gt;
+Lycée Prince Moulay Abdellah, Skhirat — &lt;em&gt;2021&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Expérience Professionnelle</title>
+      <link>https://examplesite.com/experience/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/experience/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ENSSup&lt;/strong&gt; — &lt;strong&gt;Rabat, Maroc&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Stagiaire Réseaux Informatiques&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;17 Avril - 09 Juin 2023&lt;/em&gt;&lt;br&gt;
+Enssup - Ministère de l’Enseignement Supérieur, et de la Recherche Scientifique et de l’Innovation .&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mise en place d&amp;rsquo;un réseau informatique local sécurisé&lt;/li&gt;
+&lt;li&gt;La supervision des réseaux informatiques (Zabbix)&lt;/li&gt;
+&lt;li&gt;Développement des applications web avec laravel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📄 &lt;a href=&#34;https://drive.google.com/file/d/1Oeq8cM3r2jEUNrS2aD0I78s3QjBWWBj6/view?usp=drive_link&#34;&gt;Voir le rapport de stage ENSSup (PDF)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cliquez sur le lien ci-dessous pour télécharger l&amp;rsquo;attestation de stage :
+&lt;a href=&#34;Stages/attestation_stage_enssup_2022.pdf&#34;&gt;Attestation de Stage ENSSup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Majal Technologies&lt;/strong&gt; — &lt;strong&gt;Rabat, Maroc&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Stage d’observation en réseaux et télécommunications&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;10 Juin - 10 Juillet 2022&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects Académiques</title>
+      <link>https://examplesite.com/projects/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Projet de fin d’études de Licence&lt;/strong&gt;&lt;br&gt;
+Conception et développement d’une application mobile native (Android) sécurisée pour la gestion des horaires de bus.&lt;/p&gt;
+&lt;p&gt;Cliquez sur le lien ci-dessous pour télécharger Rapport de projet :
+&lt;a href=&#34;https://drive.google.com/file/d/1apfgyZNvCwIlNpLLN_2YA9ct9fY7EIc2/view?usp=drive_link&#34;&gt;APP MOBILE RABATBUS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Projet de fin d’études DUT&lt;/strong&gt;&lt;br&gt;
+Mise en place d’une infrastructure réseau sécurisée au sein d’une entreprise.&lt;/p&gt;
+&lt;p&gt;Cliquez sur le lien ci-dessous pour télécharger Rapport de projet :
+&lt;a href=&#34;https://drive.google.com/file/d/1U7dSk0FZj9LfMT9lfjs4prLmUC4WAnmq/view?usp=drive_link&#34;&gt;Rapport de projet&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
